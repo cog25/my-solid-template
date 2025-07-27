@@ -1,13 +1,12 @@
 # My Solid Template
 
-
-- **프레임워크**: [SolidJS](https://solidjs.com/) 
-- **라우팅**: [TanStack Router](https://tanstack.com/router) 
-- **스타일링**: [UnoCSS](https://unocss.dev/) 
-- **빌드 도구**: [Vite](https://vitejs.dev/) 
-- **언어**: [TypeScript](https://typescriptlang.org/) 
-- **코드 품질**: [Biome](https://biomejs.dev/)
-- **패키지 매니저**: [Bun](https://bun.sh/)
+- ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=flat-square&logo=solid&logoColor=white)
+- ![TanStack Router](https://img.shields.io/badge/TanStack_Router-ff6b35?style=flat-square&logo=reactrouter&logoColor=white)
+- ![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)  
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- ![Biome](https://img.shields.io/badge/Biome-60a5fa?style=flat-square&logo=biome&logoColor=white)  
+- ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
 ## 📁 프로젝트 구조
 
