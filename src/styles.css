@@ -1,0 +1,10 @@
+@import '@unocss/reset/tailwind-compat.css';
+body {
+	@apply m-0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family:
+}

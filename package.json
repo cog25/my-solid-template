@@ -1,0 +1,29 @@
+{
+	"name": "my-solid-template",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite --port 3000",
+		"start": "vite --port 3000",
+		"build": "vite build && tsc",
+		"serve": "vite preview",
+		"test": "vitest run"
+	},
+	"dependencies": {
+		"@tailwindcss/vite": "^4.0.6",
+		"@tanstack/router-plugin": "^1.121.3",
+		"@tanstack/solid-router": "^1.121.3",
+		"@tanstack/solid-router-devtools": "^1.121.3",
+		"@unocss/reset": "^66.3.3",
+		"add": "^2.0.6",
+		"bun": "^1.2.19",
+		"solid-js": "^1.9.4"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "2.1.2",
+		"typescript": "^5.7.2",
+		"unocss": "^66.3.3",
+		"vite": "^6.0.11",
+		"vite-plugin-solid": "^2.11.2"
+	}
+}
