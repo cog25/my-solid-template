@@ -1,7 +1,5 @@
 # My Solid Template
 
-> SolidJS와 TanStack Router를 사용한 현대적인 웹 애플리케이션 템플릿
-
 
 - **프레임워크**: [SolidJS](https://solidjs.com/) 
 - **라우팅**: [TanStack Router](https://tanstack.com/router) 
